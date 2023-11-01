@@ -17,3 +17,8 @@
   
 # ACTIVITY: Add a new column to df
   
+# Bailey
+  df$D <- c(31:40)
+  
+# Check to see if it worked
+  df
