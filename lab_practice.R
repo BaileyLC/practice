@@ -3,7 +3,7 @@
 # Prepare workspace ----
 
 # Set working directory
-  setwd("~/Downloads")
+  setwd("C:/Users/mkfwi/Documents/GitHub - practice/practice")
 
 # Create a data frame
   df <- data.frame("A" = c(1:10),
