@@ -28,3 +28,10 @@
 
 # Check to see if it worked
   df
+
+ #add color column to the dataframe 
+  df$color<-c("red","red","red","blue","blue","blue",
+            "purple","purple","purple","purple")
+
+# Check to see if it worked
+  df
